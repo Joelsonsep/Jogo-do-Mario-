@@ -1,24 +1,58 @@
-# Joelson's Adventure
 
-Um jogo de plataforma clássico estilo Mario feito com HTML5 Canvas, CSS3 e JavaScript puro.
+# 👑 Rayaninha e o Reino dos Cinco Minutinhos
 
-## 🎮 O Jogo
-O objetivo é controlar o protagonista **Joelson** (em verde) e atravessar a fase para resgatar a **Princesa Rayane**.
+Um jogo romântico e bem-humorado criado por Joelson para a sua princesa Rayaninha.
 
-> "Joelson salvou a princesa rayane de acordar antes das 9h."
+## 📖 História
 
-## 🚀 Como Jogar
-1. Baixe ou clone este repositório.
-2. Abra o arquivo `index.html` em qualquer navegador moderno.
-3. Use as **setas do teclado** ou a tecla **Espaço** para pular e se movimentar.
+O terrível Despertador Maligno despertou às 8h55 e lançou uma maldição sobre o Reino dos Cinco Minutinhos.
 
-## 🎵 Música
-Para adicionar sua própria trilha sonora:
-1. Coloque seu arquivo de áudio na pasta `assets/audio/`.
-2. Renomeie o arquivo para `soundtrack.mp3` (ou altere o caminho no `index.html`).
+A princesa Rayaninha foi aprisionada no Castelo da Rotina e será obrigada a acordar antes da hora!
 
-## 🛠️ Estrutura do Projeto
-- `index.html`: Estrutura principal do jogo.
-- `assets/css/style.css`: Estilização e layout.
-- `assets/js/game.js`: Lógica do jogo, física e renderização.
-- `assets/audio/`: Pasta destinada aos arquivos de som.
+Cabe a Joelson, o Guardião do Sono Eterno, atravessar campos encantados, coletar os Relógios Mágicos e derrotar o Grande Despertador das 9h para salvar sua amada.
+
+O amor precisa vencer antes que o relógio marque o fim dos cinco minutinhos.
+
+---
+
+## 🎮 Controles
+
+- ⬅️ Seta para esquerda: mover
+- ➡️ Seta para direita: mover
+- Espaço: pular
+
+---
+
+## ⭐ Personagens
+
+### 🟢 Joelson
+O Guardião dos Cinco Minutinhos.
+Especialista em negociar mais alguns minutos de sono.
+
+### 👑 Princesa Rayaninha
+A protetora do Reino dos Sonhos e amante oficial das manhãs tranquilas.
+
+### ⏰ O Grande Despertador
+O chefão final do jogo.
+Seu objetivo é acordar todos exatamente às 9h da manhã.
+
+---
+
+## 🛠️ Tecnologias
+
+- HTML5
+- CSS3
+- JavaScript
+- GitHub Pages
+
+---
+
+## 🚀 Jogar online
+
+Em breve:
+
+https://SEU-USUARIO.github.io/reino-dos-cinco-minutinhos/
+
+---
+
+Feito com ❤️ por Joelson para Rayaninha.
