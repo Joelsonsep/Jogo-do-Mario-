@@ -1,28 +1,20 @@
+
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-BR">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Joelson's Adventure</title>
-    <link rel="stylesheet" href="assets/css/style.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Rayaninha e o Reino dos Cinco Minutinhos</title>
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-    <div id="game-container">
-        <canvas id="gameCanvas"></canvas>
-        <div id="ui">JOELSON: 000000</div>
-        <div id="victory-screen">
-            <h1>VITÓRIA!</h1>
-            <p id="victory-msg">Joelson salvou a princesa rayane de acordar antes das 9h.</p>
-            <button onclick="location.reload()">Jogar Novamente</button>
-        </div>
-    </div>
-    <div class="controls-hint">Use as setas para mover e pular (Espaço também pula)</div>
 
-    <!-- Espaço para a música que você vai enviar -->
-    <audio id="bgMusic" loop>
-        <source src="assets/audio/soundtrack.mp3" type="audio/mpeg">
-    </audio>
+  <div id="telaInicial">
+    <button id="botaoJogar">JOGAR</button>
+  </div>
 
-    <script src="assets/js/game.js"></script>
+  <canvas id="game"></canvas>
+
+  <script src="game.js"></script>
 </body>
 </html>
